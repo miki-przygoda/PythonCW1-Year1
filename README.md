@@ -68,5 +68,3 @@ University of Greenwich, London
 
 This repository is shared for **educational and portfolio purposes**.  
 All source code is original unless otherwise noted. Do not use this as a reference during active academic assessments.
-
-> 🧠 *I approach even simple assignments as an opportunity to build habits for clean, scalable code — and explore the deeper logic behind everyday structures like family.*
