@@ -30,11 +30,7 @@ This project is a Python-based, terminal interface (TUI) application that simula
 
 ## 📁 Project Structure
 
-├── main.py          # Runs the menu and program flow
-├── functions.py     # Contains logic for queries and tree traversal
-├── models.py        # Class structure for people and families
-├── family_tree.py   # Underlying data structure and core logic
-└── README.md
+[Projet Layout](ProjectLayout.png)
 
 
 ---
